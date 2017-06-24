@@ -1,4 +1,18 @@
+.black-text {
+    color: rgb(0, 0, 0);
+}
 .nav-pills {
-    font-size: 1.3em;
+    font-size: 1.5em;
+    font-family: Lobster Two;
+    background-color: rgba(41, 227, 255, 0.5);
+    width: 100%;
+    position: fixed;
+}
+
+.pageOne {
+    background:url(https://everydayinterviewtips.com/wp-content/uploads/2015/06/81134723-Creating-a-Digital-Portfolio.jpg);
+    background-size:cover;
+    height: 100%;
     font-family: Quicksand;
+    font-size: 2em;
 }
